@@ -4,9 +4,8 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Lab1.Code;
 
-namespace Lab1
+namespace CSharpLabs
 {
   class Program
   {
